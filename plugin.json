@@ -1,0 +1,14 @@
+{
+  "name": "chief-estimator",
+  "displayName": "Chief-Estimator",
+  "version": "1.0.0",
+  "description": "Room-by-room interior estimating for residential and light commercial contractors. Calculates quantities with waste, prices labor and materials, checks for missing items, and builds a bid summary with overhead, profit, and tax.",
+  "author": {
+    "name": "GWJ Industrial Supplies & Construction, LLC",
+    "email": "george@gwjconstruction.com",
+    "url": "https://chief-estimator.com"
+  },
+  "homepage": "https://chief-estimator.com",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["construction", "estimating", "contractor", "remodeling", "bid", "takeoff"]
+}
